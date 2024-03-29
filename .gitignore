@@ -1,0 +1,92 @@
+# Visual Studio temporary files
+.vs/
+bin/
+obj/
+
+# .NET build directories
+bin/
+obj/
+
+# User-specific files and directories
+*.user
+*.suo
+*.sln.docstates
+
+# IDE-specific files
+.vscode/
+*.code-workspace
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio Code specific files
+.vscode/
+*.code-workspace
+
+# Rider specific files
+.idea/
+
+# NuGet
+*.nuget.props
+*.paket.props
+*.paket.targets
+paket-files/
+packages/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+_UpgradeReport_Files/
+_backup*/
+_test_results/
+*.ncrunch*
+*.sln.ide/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
